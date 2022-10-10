@@ -1,4 +1,4 @@
-module github.com/accept-nano/ed25519-blake2b
+module github.com/BitcoinnanoLabs/ed25519-blake2b
 
 go 1.14
 

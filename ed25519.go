@@ -26,7 +26,7 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/accept-nano/ed25519-blake2b/internal/edwards25519"
+	"github.com/BitcoinnanoLabs/ed25519-blake2b/internal/edwards25519"
 	"golang.org/x/crypto/blake2b"
 )
 
